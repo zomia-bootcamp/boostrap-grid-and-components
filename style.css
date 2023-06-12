@@ -1,0 +1,63 @@
+*{
+    text-align: center;
+}
+
+
+/* .box {
+    align-items: center;
+    background-color: lightgrey;
+    border: 1px solid white;
+    color: white;
+    display: flex;
+    font-family: 'Playfair Display', serif;
+    height: 80px;
+    justify-content: center;
+} */
+
+.nav{
+    
+
+    border: 1px solid black;
+       
+}
+
+.nav-container{
+        height: 10vh;
+}
+
+.main-image{
+    height: 55vh;
+    border: 1px solid black;
+    
+}
+
+h1,
+h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+/* .alt-color {
+    background-color: cyan;
+} */
+.text{
+    border: 1px solid black;
+    height: 7rem;
+}
+
+.header{
+    border: 1px solid black;
+    height: 5rem;
+}
+
+.image-content{
+    border: 1px solid black;
+    height: 15rem;
+}
+
+/* .container{
+    border:  1px solid black;
+} */
+
+#second-section{
+    min-height: 100vh;
+}
