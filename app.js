@@ -1,4 +1,5 @@
 $(document).ready(() => {
+
 	const $btn = $('.btn')
     const $skillsList = $('.skills-list')
    
@@ -9,3 +10,5 @@ $(document).ready(() => {
         })
 	
 })
+
+// 
